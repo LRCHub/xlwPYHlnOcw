@@ -1,0 +1,59 @@
+# Empty old City – カミツレと愛のブーケ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+私の心臓を包み込むように
+あらゆる細胞が根を張ってしまっても
+もう泣かないでこれはウェディング
+眠れる私にそっと触れて
+南を目指して歩いたの
+日向を目指して歩いたの
+例え姿を変えても
+私はここにいるわ
+カミツレと愛のブーケ
+私の人生あなたにあげる
+枯れないようにキスをして
+綺麗でいたいの
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake a longer way to
+go ahead?
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake?
+No remedy
+At sunny place, we're falling in love again
+Like a daydream that looks familiar, slowly we
+accept the reality
+心は強く
+花は美しく
+想うたびまた芽吹いた
+身体が動かない恐怖も
+蝕まれていく切なさも
+花びらドレスに身を包んで
+受け止めることができたのでしょう
+カミツレと愛のブーケ
+二度目の人生あなたにあげる
+枯れないようにキスをして
+綺麗でいたいの
+カミツレの花言葉の
+似合う私でいられたかしら
+答えるようにキスをして
+幸せに満ちた緑の花園で
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake a longer way to
+go ahead?
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake?
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake a longer way to
+go ahead?
+Farewell, or should I say welcome back, my
+dearest?
+In another way, would we remake a longer way to
+go ahead?
+```

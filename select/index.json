@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カミツレと愛のブーケ",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-01-02T07:55:45.770471Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カミツレと愛のブーケ",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_カミツレと愛のブーケ_Empty_old_City.txt"
+    }
+  ]
+}
